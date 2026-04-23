@@ -1,0 +1,29 @@
+{
+  "name": "ai-call-agent",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Abhinav0016/AI-call-agent.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Abhinav0016/AI-call-agent/issues"
+  },
+  "homepage": "https://github.com/Abhinav0016/AI-call-agent#readme",
+  "description": "",
+  "dependencies": {
+    "body-parser": "^2.2.2",
+    "cors": "^2.8.6",
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mongoose": "^9.5.0",
+    "openai": "^6.34.0",
+    "twilio": "^6.0.0"
+  }
+}
